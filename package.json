@@ -70,7 +70,8 @@
     "license": "MIT",
     "main": "index.js",
     "pre-commit": [
-        "eslint"
+        "eslint",
+        "ava"
     ],
     "scripts": {
         "eslint": "eslint . --quiet",
