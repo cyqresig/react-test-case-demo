@@ -50,7 +50,7 @@ class Bar extends PureComponent {
             clickCount: 0,
             value,
             data: {...data,},
-            deepData: {...deepData,}
+            deepData: {...deepData,},
         }
     }
 

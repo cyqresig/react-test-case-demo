@@ -9,7 +9,6 @@ import { AppContainer, } from 'react-hot-loader'
 const SELECTOR = 'main'
 
 export default (EntryComponent) => {
-
     return render(
         <AppContainer>
             <EntryComponent/>

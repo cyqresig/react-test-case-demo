@@ -10,6 +10,6 @@ const array = []
 export default {
     func,
     obj,
-    array
+    array,
 }
 
