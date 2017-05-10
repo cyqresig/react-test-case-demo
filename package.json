@@ -71,7 +71,7 @@
     "main": "index.js",
     "pre-commit": [
         "eslint",
-        "ava"
+        "test"
     ],
     "scripts": {
         "eslint": "eslint . --quiet",
