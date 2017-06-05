@@ -86,6 +86,7 @@
         ],
         "require": [
             "babel-register",
+            "ignore-styles",
             "./test/helpers/setup-browser-env.js"
         ],
         "concurrency": 5,

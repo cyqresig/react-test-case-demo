@@ -5,6 +5,7 @@
 
 import React, { PropTypes, PureComponent, } from 'react'
 import noop from './util/noop'
+import './Bar.pcss'
 
 const renderClickCountLabel = (clickCount) => {
     let clickCountLabelView = null
